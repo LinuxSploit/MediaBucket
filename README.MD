@@ -1,7 +1,6 @@
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/CAR057?referralCode=1136J-)
-
 # MediaBucket Video Transcoding Server
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/CAR057?referralCode=1136J-)
 <!-- ![MediaBucket Logo](https://example.com/logo.png) -->
 
 **MediaBucket** is a robust and scalable video transcoding server built with Go. It offers resumable file uploads, automatic video transcoding, and efficient media serving, including thumbnails for both videos and images. Additionally, MediaBucket provides an image upload bucket with automatic thumbnail generation, ensuring seamless media management for your applications.
